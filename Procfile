@@ -1,1 +1,1 @@
-worker: run.py
+worker: runbot_mac.command
